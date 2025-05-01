@@ -10,4 +10,7 @@ public class B {
 
         System.out.println("TL modification");
     }
+    public void payment() {
+    	System.out.println("Payment done");
+    }
 }
